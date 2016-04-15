@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi all!
+
+Today I'm testing new "no-console" Github manual
